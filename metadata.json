@@ -1,0 +1,5 @@
+{
+  "name": "Moalim AI - Smart Homework Helper",
+  "description": "An intelligent assistant that solves exercises and homework problems from images using Gemini AI. Upload a photo, and get step-by-step solutions in Arabic.",
+  "requestFramePermissions": []
+}
